@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589131061 source:c:\users\exwave\desktop\emir project\lexical analyzer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

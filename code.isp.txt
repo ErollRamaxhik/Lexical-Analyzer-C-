@@ -1,0 +1,68 @@
+
+Identifier:hello_12_3_erol_emir
+
+Operator:/
+
+Operator:*
+
+Comments:(* erolramacik *)
+
+String Constants:" halalluyahhhh "
+
+EndOfLine:;
+
+Keyword:char
+
+RightPar:)
+
+RightPar:)
+
+RightSquareBracket:]
+
+Comments:(*selamnhello  *)
+
+Integer:1234567891
+
+Identifier:ab
+
+Keyword:break
+
+Operator:+
+
+Operator:++
+
+Operator:/
+
+Identifier:hello_12_3_erol_emir
+
+Operator:/
+
+Operator:*
+
+Comments:(* erolramacik *)
+
+String Constants:" halalluyahhhh "
+
+EndOfLine:;
+
+Keyword:char
+
+RightPar:)
+
+RightPar:)
+
+RightSquareBracket:]
+
+Comments:(*selamnhello  *)
+
+Integer:1234567891
+
+Identifier:ab
+
+Keyword:break
+
+Operator:+
+
+Operator:++
+
+Operator:/
